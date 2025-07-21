@@ -31,17 +31,18 @@ pip install -r requirements.txt
 ```
 
 ## 📂 Estructura del Proyecto
+
 ├── data/
-│   ├── dataset_transporte.csv       # Dataset principal
-│   └── preprocesamiento.py          # Script de limpieza
+│   ├── dataset_transporte.csv       # Dataset principal  
+│   └── preprocesamiento.py          # Script de limpieza  
 ├── modelos/
-│   ├── entrenamiento.py             # Entrenamiento del modelo
-│   └── prediccion.py                # Módulo de predicción
+│   ├── entrenamiento.py             # Entrenamiento del modelo  
+│   └── prediccion.py                # Módulo de predicción  
 ├── notebooks/
-│   └── exploracion.ipynb            # Análisis exploratorio
+│   └── exploracion.ipynb            # Análisis exploratorio  
 ├── resultados/
-│   ├── metricas.txt                 # Resultados numéricos
-│   └── graficos/                    # Visualizaciones
+│   ├── metricas.txt                 # Resultados numéricos  
+│   └── graficos/                    # Visualizaciones  
 └── requirements.txt
 
 ## 📊 Datos
